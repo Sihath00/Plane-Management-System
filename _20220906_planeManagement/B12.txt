@@ -1,0 +1,11 @@
+Ticket Information:
+
+Row: B
+Seat: 12
+Price: £180.0
+
+Person Information:
+
+Name: Luhansa
+Surname: Hathurusinha
+Email: nlh2005@gmail.com

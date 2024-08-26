@@ -1,0 +1,11 @@
+Ticket Information:
+
+Row: A
+Seat: 1
+Price: £200.0
+
+Person Information:
+
+Name: Thisumo
+Surname: Deeshana
+Email: thisu@gmail.com

@@ -1,0 +1,11 @@
+Ticket Information:
+
+Row: C
+Seat: 12
+Price: £180.0
+
+Person Information:
+
+Name: Sihath
+Surname: Senarath
+Email: ucancme2005@gmail.com

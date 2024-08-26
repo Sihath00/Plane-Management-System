@@ -1,0 +1,11 @@
+Ticket Information:
+
+Row: B
+Seat: 1
+Price: £200.0
+
+Person Information:
+
+Name: Niranga
+Surname: Asahani
+Email: nira@gmail.com

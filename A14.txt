@@ -1,0 +1,11 @@
+Ticket Information:
+
+Row: A
+Seat: 14
+Price: £180.0
+
+Person Information:
+
+Name: Sithika
+Surname: Yapa
+Email: sithika@gmail.com

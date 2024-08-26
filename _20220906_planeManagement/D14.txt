@@ -1,0 +1,11 @@
+Ticket Information:
+
+Row: D
+Seat: 14
+Price: £180.0
+
+Person Information:
+
+Name: Dineth
+Surname: Desilva
+Email: dine@gmail.com
